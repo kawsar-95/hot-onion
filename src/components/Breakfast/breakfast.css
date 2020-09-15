@@ -1,0 +1,12 @@
+#card{
+   float: left;
+   width:30%;
+   height:400px;
+   margin:20px;
+   padding:5px;
+}
+
+#card #card-img{
+    width:'50px';
+    height:'50px';
+}
